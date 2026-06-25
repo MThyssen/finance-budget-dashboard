@@ -41,7 +41,7 @@ This project explores 700 records from Microsoft's official [Financial Sample da
 ## Key insights
  
 - **Sales tracked budget closely overall** — $118.73M actual vs. $118.59M budgeted, a 0.12% variance at the company level. (As noted above, this closeness is a property of how the simulated budget was generated, not a real planning outcome.)
-- **Paseo is the most profitable product** at $4.8M total profit and a 14.53% margin, while Amarilla has the highest margin of any product (15.86%) despite lower total profit than Paseo — a useful distinction between *margin* and *volume* as separate measures of product performance. These are real, non-simulated findings.
+- **Paseo is the most profitable product** at $4.8M total profit and a 14.53% margin, while Amarilla has the highest margin of any product (15.86%) despite lower total profit than Paseo, which is a useful distinction between *margin* and *volume* as separate measures of product performance. These are real, non-simulated findings.
 - **Sales show a clear Q4 seasonal pattern** in both 2013 and 2014, with October and December consistently among the strongest months in the dataset.
 - **Government and Small Business were the two segments with positive variance** in this run of the simulation; re-running the random Budget generation would likely shift which segments land on either side.
 ## Files in this repo
