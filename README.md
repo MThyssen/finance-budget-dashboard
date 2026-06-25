@@ -2,6 +2,7 @@
 
 A two-page Power BI dashboard analyzing sales, budget variance, and product profitability, built on top of an Excel-based data cleaning and validation workflow.
 
+Here are the two dashboard images:
 **Overview**
 ![Overview Page](screenshots/overview-page.png)
  
