@@ -26,7 +26,6 @@ This project explores 700 records from Microsoft's official [Financial Sample da
  
 1. **Data cleaning (Excel)**
    - Renamed the `" Sales"` column (it shipped with a leading space in the raw file)
-   - Filled 53 blank `Discount Band` values with "None" (rows with $0 discount have no band to assign)
    - Added a simulated `Budget` column, then pasted it as static values so the numbers stay fixed on reopening
    - Added `Variance` and `Variance %` columns
    - Validated Sales/Budget/Variance totals by segment with a pivot table before modeling
